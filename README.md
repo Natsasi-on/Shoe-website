@@ -1,4 +1,4 @@
-# Simple Shoe Website
+<h1 align="center">Simple Shoe Website</h1>
 
 <p align="center">
     Welcome to the Simple Shoe Website, an engaging platform for exploring and purchasing a wide range of footwear.
